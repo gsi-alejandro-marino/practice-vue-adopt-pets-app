@@ -1,4 +1,6 @@
-# adopt-pets
+# Pets adoption store 
+
+Vue project using _Vuex_ and _vue-router_
 
 ## Project setup
 ```
